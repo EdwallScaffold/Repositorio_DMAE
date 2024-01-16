@@ -1,7 +1,5 @@
 # Repositorio_DMAE
 
-# researchpapers
-
 Referencias trabajo de retina (DMAE) para la asignatura de Enfermedades neurodegenerativas de la retina
 
 Tamiya, R., Hata, M., Tanaka, A., Tsuchikawa, M., Ueda-Arakawa, N., Tamura, H., Miyata, M., Takahashi, A., Kido, A., Muraoka, Y., Miyake, M., Ooto, S., & Tsujikawa, A. (2023). Therapeutic effects of faricimab on aflibercept-refractory age-related macular degeneration. Scientific Reports, 13(1). https://doi.org/10.1038/s41598-023-48190-6
